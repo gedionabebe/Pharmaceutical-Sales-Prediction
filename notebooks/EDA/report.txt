@@ -1,0 +1,4 @@
+                        Sales  CompetitionDistance  Customers
+Sales                1.000000            -0.019229   0.894711
+CompetitionDistance -0.019229             1.000000  -0.102861
+Customers            0.894711            -0.102861   1.000000
