@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/User/Desktop/Pharmaceutical-Sales-Prediction/notebooks/mlruns/2/c0856d234aa446d1b12a462d16e9e127/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: c0856d234aa446d1b12a462d16e9e127
+run_uuid: c0856d234aa446d1b12a462d16e9e127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662763723049
+status: 1
+tags: []
+user_id: User

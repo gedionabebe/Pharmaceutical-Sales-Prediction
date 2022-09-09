@@ -1,0 +1,7 @@
+Index(['Unnamed: 0', 'Store', 'DayOfWeek', 'Sales', 'Customers', 'Open',
+       'Promo', 'StateHoliday', 'SchoolHoliday', 'Year', 'Month', 'DayOfMonth',
+       'is_month_end', 'is_weekend', 'is_month_start', 'StoreType',
+       'Assortment', 'CompetitionDistance', 'CompetitionOpenSinceMonth',
+       'CompetitionOpenSinceYear', 'Promo2', 'Promo2SinceWeek',
+       'Promo2SinceYear', 'PromoInterval'],
+      dtype='object')
