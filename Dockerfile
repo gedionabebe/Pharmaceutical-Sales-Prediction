@@ -8,4 +8,6 @@ RUN python -m pip install -r requirements.txt
 # Create app directory in Docker
 WORKDIR /app
 # Copy app from local environment into the Docker image
-COPY . .
+COPY ./app
+EXPOSE 8501
+CMD ["python", "scripts/dashboard.py"]
