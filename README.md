@@ -26,6 +26,8 @@ The aim of this project is pharmaceutical sales prediction across multiple store
 >Sklearn
 >
 >Mlflow
+>
+>DVC
 
 
 ## Install
